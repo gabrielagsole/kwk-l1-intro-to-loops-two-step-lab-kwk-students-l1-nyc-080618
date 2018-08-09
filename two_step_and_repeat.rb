@@ -9,6 +9,7 @@ def first_steps
   puts "Stop"
   sleep(1)
 end
+end
 
 first_steps
 
